@@ -45,46 +45,16 @@ let All_song = [
      serial_no: "3"
    },
    {
-     name: "Tujh Mein Rab Dikhta Hay-Roop Kumar",
+     name: "Eka mor ganer tori-Pratima Banerjee",
      path: "music/song4.mp3",
      img: "img/img4.jpg",
      serial_no: "4"
    },
    {
-     name: "Charana Dharite Diyo Go-Hemanta Mukherjee",
+     name: "shedin dujone dulechinu bone-Srikanto Acharya",
      path: "music/song5.mp3",
      img: "img/img5.jpg",
      serial_no: "5"
-   },
-   {
-     name: "nir choto-Hemanta Mukhopadhyay & Geeta Dutt",
-     path: "music/song6.mp3",
-     img: "img/img6.jpg",
-     serial_no: "6"
-   },
-   {
-     name: "Mangal Deep Jwele-Lata Mangeshkar",
-     path: "music/song7.mp3",
-     img: "img/img7.jpg",
-     serial_no: "7"
-   },
-   {
-     name: "Prem Kokhono Modhur-Andrew Kishore & Khalid Hasan Milu",
-     path: "music/song8.mp3",
-     img: "img/img8.jpg",
-     serial_no: "8"
-   },
-   {
-     name: "Eka mor ganer tori-Pratima Banerjee",
-     path: "music/song9.mp3",
-     img: "img/img9.jpg",
-     serial_no: "9"
-   },
-   {
-     name: "shedin dujone dulechinu bone-Srikanto Acharya",
-     path: "music/song10.mp3",
-     img: "img/img10.jpg",
-     serial_no: "10"
    }
 ];
 
